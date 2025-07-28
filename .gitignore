@@ -1,0 +1,22 @@
+# === Python Cache ===
+__pycache__/
+*.pyc
+
+# === Virtuelle Umgebung ===
+venv/
+env/
+
+# === Daten & Patches ===
+data/
+output/
+*.png
+*.jpg
+
+# === Modelle & Checkpoints ===
+*.pt
+*.ckpt
+
+# === Sonstiges ===
+.DS_Store
+.idea/
+.vscode/
